@@ -1,4 +1,4 @@
-package org.fasttrackit.course7.collections;
+package org.fasttrackit.course7.collection;
 
 import org.fasttrackit.course7.model.Phone;
 import org.fasttrackit.course7.model.PhoneNew;

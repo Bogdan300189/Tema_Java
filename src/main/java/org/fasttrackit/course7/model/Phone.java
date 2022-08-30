@@ -1,12 +1,18 @@
 package org.fasttrackit.course7.model;
 
+import java.util.Objects;
+
 public class Phone {
-    private String brand;
-    private String model;
+    protected String brand;
+    protected String model;
 
     public Phone(String brand, String model) {
         this.brand = brand;
         this.model = model;
+    }
+
+    public Phone() {
+
     }
 
     public String getBrand() {
@@ -32,4 +38,6 @@ public class Phone {
                 ", model='" + model + '\'' +
                 '}';
     }
+
+
 }

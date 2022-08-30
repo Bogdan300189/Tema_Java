@@ -1,4 +1,4 @@
-package org.fasttrackit.course7.collections;
+package org.fasttrackit.course7.collection;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
